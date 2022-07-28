@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dave-314
 - 👀 I’m interested in using github to put together a Machine Learning Portfolio.
 - 🌱 I recently began learning python with focus on machine learning. Also familiar with some R, SAS, and SQL.
-- 💞️ I’m looking to collaborate on projects with coding
+- 💞️ Feel free to contact me regarding my projects/code
 - 📫 How to reach me: https://www.linkedin.com/in/david-shields/
 
 <!---
