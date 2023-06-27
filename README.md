@@ -1,6 +1,6 @@
 # Hi there! I'm Dave, a Passionate Data Scientist 🚀
 
-Welcome to my GitHub profile! As a dedicated and innovative data scientist, I'm thrilled to share my work and skills with potential employers and fellow colleagues. Allow me to introduce myself and provide you with an overview of what I bring to the table.
+Welcome to my GitHub profile! As a dedicated and innovative data scientist, I'm thrilled to share my share project with all who are interested. Allow me to introduce myself and provide you with an overview projects I have completed so far.
 
 ## About Me
 With a strong foundation in mathematics and a deep curiosity for the world of data, I have developed a passion for extracting valuable insights from complex datasets. My journey in data science has equipped me with a diverse skill set, blending statistical analysis, machine learning, and programming expertise.
